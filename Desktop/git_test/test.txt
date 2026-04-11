@@ -1,0 +1,3 @@
+Hello from creating this file locally in  my machine!
+
+hello from staging after git add .
